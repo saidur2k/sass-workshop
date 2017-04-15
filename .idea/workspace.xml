@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f955b732-3b03-4a8b-973a-5bb2d90e50eb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/nesting/public/app.css" afterPath="$PROJECT_DIR$/exercises/nesting/public/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/nesting/src/sass/app.scss" afterPath="$PROJECT_DIR$/exercises/nesting/src/sass/app.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/parent/public/app.css" afterPath="$PROJECT_DIR$/exercises/parent/public/app.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/parent/src/sass/app.scss" afterPath="$PROJECT_DIR$/exercises/parent/src/sass/app.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +16,8 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="tests.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercises/nesting/public/tests.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/parent/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -25,21 +26,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercises/nesting/public/index.html">
+      <file leaf-file-name="app.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exercises/parent/src/sass/app.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="398">
+              <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exercises/nesting/src/sass/app.scss">
+      <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/parent/public/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="-6">
+              <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -54,6 +55,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/exercises/nesting/src/sass/app.scss" />
+        <option value="$PROJECT_DIR$/exercises/parent/public/app.css" />
+        <option value="$PROJECT_DIR$/exercises/parent/src/sass/app.scss" />
       </list>
     </option>
   </component>
@@ -128,7 +131,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="nesting" />
+              <option name="myItemId" value="parent" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -146,7 +149,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="nesting" />
+              <option name="myItemId" value="parent" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -172,7 +175,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="nesting" />
+              <option name="myItemId" value="parent" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -186,8 +189,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="last_opened_file_path" value="/usr/local/bin/php" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -215,12 +217,12 @@
       <option name="presentableId" value="Default" />
       <updated>1492259794106</updated>
       <workItem from="1492259796503" duration="15000" />
-      <workItem from="1492259828576" duration="1149000" />
+      <workItem from="1492259828576" duration="1976000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1164000" />
+    <option name="totallyTimeSpent" value="1991000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1010" height="813" extended-state="0" />
@@ -257,14 +259,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/exercises/nesting/public/tests.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exercises/nesting/public/app.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
@@ -281,10 +275,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/nesting/public/tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/exercises/nesting/src/sass/app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="8">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/parent/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/parent/public/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/parent/src/sass/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
           <folding />
         </state>
       </provider>
