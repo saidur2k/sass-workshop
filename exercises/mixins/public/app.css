@@ -6,6 +6,7 @@
   border-radius: 2px;
   user-select: none;
   transition: box-shadow 0.3s;
+  color: #ffffff;
 }
 
 .btn:hover:not(:disabled) {
@@ -15,4 +16,32 @@
 .btn:disabled {
   opacity: 0.65;
   box-shadow: none;
+}
+
+.btn.btn-yellow {
+  background-color: #990;
+}
+
+.btn.btn-blue {
+  background-color: #33a;
+}
+
+.btn.btn-green {
+  background-color: #3c3;
+}
+
+.btn.btn-purple {
+  background-color: #939;
+}
+
+.btn.btn-pink {
+  background-color: #c69;
+}
+
+.btn.btn-orange {
+  background-color: #f93;
+}
+
+.btn.btn-brown {
+  background-color: #952;
 }
