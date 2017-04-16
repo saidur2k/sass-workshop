@@ -9,16 +9,17 @@ body h1 {
 
 .btn.btn-primary {
   border: 1px solid rebeccapurple;
-  background-color: lawngreen;
+  background-color: #c69;
   color: #fff;
+  padding-left: 10px;
 }
 
 .btn.btn-secondary {
   border: 1px solid cadetblue;
-  background-color: peru;
+  background-color: #d2e1dd;
   color: #000;
 }
 
 .btn:disabled {
-  opacity: 0.65;
+  opacity: 0.5;
 }
