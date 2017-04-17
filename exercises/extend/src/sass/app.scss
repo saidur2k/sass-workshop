@@ -3,3 +3,29 @@ body {
     color: #c69;
   }
 }
+
+%btn {
+
+}
+
+%commonProps {
+  padding: 2px 10px;
+  border-radius: 2px;
+  border-style: solid;
+  &:disabled {
+    opacity: 0.5;
+  }
+}
+
+.btn-primary {
+  @extend %commonProps;
+  background-color: #c46;
+  color: white;
+}
+
+.btn-secondary {
+  @extend %commonProps;
+  background-color: rgb(237, 188, 200);
+  color: black;
+}
+
