@@ -2,6 +2,7 @@
   padding: 2px 10px;
   border: 1px solid transparent;
   border-radius: 2px;
+  color: black;
 }
 
 .btn:hover:not(:disabled) {
@@ -25,6 +26,7 @@
 .theme-1 .btn-secondary {
   background-color: #3377ff;
   border-color: #0044cc;
+  color: white;
 }
 
 .theme-1 .btn-secondary:hover:not(:disabled) {
@@ -34,6 +36,7 @@
 .theme-1 .btn-other {
   background-color: #ff7733;
   border-color: #cc4400;
+  color: white;
 }
 
 .theme-1 .btn-other:hover:not(:disabled) {
@@ -43,6 +46,7 @@
 .theme-1 .btn-other2 {
   background-color: #ff33ff;
   border-color: #cc00cc;
+  color: white;
 }
 
 .theme-1 .btn-other2:hover:not(:disabled) {
@@ -88,6 +92,7 @@
 .theme-3 .btn-primary {
   background-color: #a6a;
   border-color: #6d3d6d;
+  color: white;
 }
 
 .theme-3 .btn-primary:hover:not(:disabled) {
@@ -97,6 +102,7 @@
 .theme-3 .btn-secondary {
   background-color: #6d6d3d;
   border-color: #2c2c18;
+  color: white;
 }
 
 .theme-3 .btn-secondary:hover:not(:disabled) {
@@ -106,6 +112,7 @@
 .theme-3 .btn-other {
   background-color: #3d6d6d;
   border-color: #182c2c;
+  color: white;
 }
 
 .theme-3 .btn-other:hover:not(:disabled) {
@@ -115,6 +122,7 @@
 .theme-3 .btn-other2 {
   background-color: #3d6d3d;
   border-color: #182c18;
+  color: white;
 }
 
 .theme-3 .btn-other2:hover:not(:disabled) {
